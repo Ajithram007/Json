@@ -1,4 +1,6 @@
 {
-  "title": "Sample",
-  "message": "Hi"
+  "content" : {
+    "title": "Sample",
+    "message": "Hi"
+  }
 }
