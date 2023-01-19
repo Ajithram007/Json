@@ -1,0 +1,13 @@
+{
+    "conversations": [
+        {
+            "messages": [
+            ],
+            "conversationId": "2134664567656",
+            "properties": {
+                "first_name": "abc",
+                "last_name": "def"
+            }
+        }
+    ]
+}
