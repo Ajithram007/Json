@@ -5,8 +5,8 @@
             ],
             "conversationId": "2134664567656",
             "properties": {
-                "firstName": "abc",
-                "lastName": "def",
+                "category_id": "abc",
+                "label_id": "def",
                 "age": 23,
                 "required": false
             }
