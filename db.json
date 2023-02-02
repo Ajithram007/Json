@@ -67,6 +67,7 @@
 				"deleted": false,
 				"required": false,
 				"visible": false,
+				"disabled": true,
 				"column_type_blob": false,
 				"nodegroup_skip": false,
 				"validatable": false,
