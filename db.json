@@ -18,7 +18,7 @@
 				"visible": true,
 				"column_type_blob": false,
 				"nodegroup_skip": false,
-				"validatable": false,
+				"validatable": true,
 				"builder": false,
 				"internal": true,
 				"choices": [],
