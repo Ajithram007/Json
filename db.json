@@ -62,7 +62,7 @@
 				"fc_segmentable": false,
 				"save_only": false,
 				"custom": false,
-				"editable": false,
+				"editable": true,
 				"position": 2,
 				"deleted": false,
 				"required": false,
