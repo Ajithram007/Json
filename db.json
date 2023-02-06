@@ -15,7 +15,7 @@
 				"position": 1,
 				"deleted": false,
 				"required": false,
-				"visible": false,
+				"visible": true,
 				"column_type_blob": false,
 				"nodegroup_skip": false,
 				"validatable": false,
