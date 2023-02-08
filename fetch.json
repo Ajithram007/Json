@@ -4,7 +4,9 @@
             "messages": [
             ],
             "conversationId": "2134664567457",
-            "properties": {}
+            "properties": {
+                "category_id": "abc"
+            }
         }
     ]
 }
